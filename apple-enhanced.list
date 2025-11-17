@@ -1,0 +1,92 @@
+# ==== Apple 主域 ====
+apple.com
+.apple.com
+
+# ==== Apple CDN / App Store / 图标 / 截图 ====
+mzstatic.com
+.mzstatic.com
+
+# ==== iTunes & App Store APIs ====
+itunes.apple.com
+.itunes.apple.com
+buy.itunes.apple.com
+client-api.itunes.apple.com
+p*.itunes.apple.com
+uts-api.itunes.apple.com
+se-edge.itunes.apple.com
+
+# ==== Apple Push Notification Service (APNs) ====
+push.apple.com
+.push.apple.com
+courier.push.apple.com
+.courier.push.apple.com
+courier-*.push.apple.com
+
+# ==== Apple Edge 网络（你日志中出现的 tether.edge.apple） ====
+edge.apple.com
+.edge.apple.com
+tether.edge.apple.com
+init.edge.apple.com
+api.edge.apple.com
+
+# ==== Apple 账户（Apple ID） ====
+appleid.apple.com
+.appleid.apple.com
+idmsa.apple.com
+idmsauth.apple.com
+
+# ==== Apple 内部服务 / 激活 / 设备认证 ====
+gsa.apple.com
+gsas.apple.com
+gs-loc.apple.com
+albert.apple.com
+configuration.apple.com
+deviceenrollment.apple.com
+
+# ==== Apple 反欺诈 / 安全检查 ====
+ocsp.apple.com
+ocsp2.apple.com
+cert.apple.com
+
+# ==== iCloud 全家桶 ====
+icloud.com
+.icloud.com
+storage.icloud.com
+content.icloud.com
+fmipmobile.icloud.com      # 查找我的
+setup.icloud.com
+pushed.icloud.com
+update.icloud.com
+
+# ==== Apple 地图、分发、内容服务 ====
+maps.apple.com
+cdn-apple.com
+cdn.apple.mapkit.com
+
+# ==== Akamai / CDN 托管（Apple 主要依赖） ====
+akadns.net
+.akadns.net
+akamaiedge.net
+.akamaiedge.net
+edgekey.net
+.edgekey.net
+akamaiedge.net
+edgesuite.net
+.edgesuite.net
+
+# ==== Apple Pay / 钱包 ====
+apple-pay-gateway.apple.com
+wallet.apple.com
+
+# ==== 开发者 / TestFlight ====
+developer.apple.com
+testflight.apple.com
+appstoreconnect.apple.com
+
+# ==== iMessage 相关 ====
+gateway.push.apple.com
+
+# ==== NTP（一般配合 DST-PORT:123 直连） ====
+time.apple.com
+time*.apple.com
+
